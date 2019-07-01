@@ -1,0 +1,11 @@
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/bin/Debug/netcoreapp2.1/UrlParts.deps.json
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/bin/Debug/netcoreapp2.1/UrlParts.runtimeconfig.json
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/bin/Debug/netcoreapp2.1/UrlParts.runtimeconfig.dev.json
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/bin/Debug/netcoreapp2.1/UrlParts.dll
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/bin/Debug/netcoreapp2.1/UrlParts.pdb
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/Debug/netcoreapp2.1/UrlParts.csprojAssemblyReference.cache
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/Debug/netcoreapp2.1/UrlParts.csproj.CoreCompileInputs.cache
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/Debug/netcoreapp2.1/UrlParts.AssemblyInfoInputs.cache
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/Debug/netcoreapp2.1/UrlParts.AssemblyInfo.cs
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/Debug/netcoreapp2.1/UrlParts.dll
+/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/Debug/netcoreapp2.1/UrlParts.pdb
