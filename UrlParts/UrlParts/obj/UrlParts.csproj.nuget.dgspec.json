@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT\\UrlParts\\UrlParts\\UrlParts\\UrlParts.csproj": {}
+    "/Users/headleysj/git/UrlParts/UrlParts/UrlParts/UrlParts.csproj": {}
   },
   "projects": {
-    "D:\\GIT\\UrlParts\\UrlParts\\UrlParts\\UrlParts.csproj": {
+    "/Users/headleysj/git/UrlParts/UrlParts/UrlParts/UrlParts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\UrlParts\\UrlParts\\UrlParts\\UrlParts.csproj",
+        "projectUniqueName": "/Users/headleysj/git/UrlParts/UrlParts/UrlParts/UrlParts.csproj",
         "projectName": "UrlParts",
-        "projectPath": "D:\\GIT\\UrlParts\\UrlParts\\UrlParts\\UrlParts.csproj",
-        "packagesPath": "C:\\Users\\headl\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\UrlParts\\UrlParts\\UrlParts\\obj\\",
+        "projectPath": "/Users/headleysj/git/UrlParts/UrlParts/UrlParts/UrlParts.csproj",
+        "packagesPath": "/Users/headleysj/.nuget/packages/",
+        "outputPath": "/Users/headleysj/git/UrlParts/UrlParts/UrlParts/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\headl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/headleysj/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

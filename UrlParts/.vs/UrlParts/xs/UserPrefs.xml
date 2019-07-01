@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{485AC0F4-E67A-4721-A1C1-67C59CB6DC92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UrlParts.Tests/ParserTests.cs">
+    <Files>
+      <File FileName="UrlParts/UrlParts.cs" Line="1" Column="1" />
+      <File FileName="UrlParts.Tests/ParserTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UrlParts" expanded="True">
+            <Node name="UrlParts" expanded="True" />
+            <Node name="UrlParts.Tests" expanded="True">
+              <Node name="ParserTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UrlParts" expanded="True">
+            <Node name="UrlParts.Tests" expanded="True" selected="True">
+              <Node name="UrlParts" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="ParserTests" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UrlParts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
