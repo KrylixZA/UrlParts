@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/headleysj/git/UrlParts/UrlParts/UrlParts.Tests/UrlParts.Tests.csproj": {}
+    "D:\\GIT\\UrlParts\\UrlParts\\UrlParts.Tests\\UrlParts.Tests.csproj": {}
   },
   "projects": {
-    "/Users/headleysj/git/UrlParts/UrlParts/UrlParts.Tests/UrlParts.Tests.csproj": {
+    "D:\\GIT\\UrlParts\\UrlParts\\UrlParts.Tests\\UrlParts.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/headleysj/git/UrlParts/UrlParts/UrlParts.Tests/UrlParts.Tests.csproj",
+        "projectUniqueName": "D:\\GIT\\UrlParts\\UrlParts\\UrlParts.Tests\\UrlParts.Tests.csproj",
         "projectName": "UrlParts.Tests",
-        "projectPath": "/Users/headleysj/git/UrlParts/UrlParts/UrlParts.Tests/UrlParts.Tests.csproj",
-        "packagesPath": "/Users/headleysj/.nuget/packages/",
-        "outputPath": "/Users/headleysj/git/UrlParts/UrlParts/UrlParts.Tests/obj/",
+        "projectPath": "D:\\GIT\\UrlParts\\UrlParts\\UrlParts.Tests\\UrlParts.Tests.csproj",
+        "packagesPath": "C:\\Users\\headl\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\UrlParts\\UrlParts\\UrlParts.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/headleysj/.config/NuGet/NuGet.Config"
+          "C:\\Users\\headl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +46,6 @@
               "version": "[15.8.0, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
